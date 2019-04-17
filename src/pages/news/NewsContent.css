@@ -1,0 +1,16 @@
+.NewsContent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+}
+.NewsContent__section {
+  width: 44%;
+}
+.NewsContent__title {
+  width: 60%;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}

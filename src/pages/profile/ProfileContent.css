@@ -1,0 +1,10 @@
+.ProfileContent {
+  padding: 8px 0;
+}
+.ProfileContent__caption {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+.ProfileContent__list {
+  padding-left: 20px;
+}

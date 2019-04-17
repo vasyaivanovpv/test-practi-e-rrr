@@ -1,0 +1,28 @@
+.Login__form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 400px;
+}
+.Login__input,
+.Login__label {
+  width: 100%;
+  padding: 4px 6px;
+}
+.Login__input {
+  height: 40px;
+  margin-bottom: 8px;
+  font-size: 1.6rem;
+}
+.Login__label {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+.Login__button {
+  width: 80px;
+  height: 30px;
+}
+.Login__warning {
+  display: inline-block;
+  border-bottom: 2px solid tomato;
+}
